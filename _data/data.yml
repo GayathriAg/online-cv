@@ -1,3 +1,5 @@
+
+
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
@@ -7,39 +9,46 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Srikanth
-    tagline: Trained Devops Candidate
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: vlsrikanth98@gmail.com
-    phone: 9597758545
-    timezone: India/Kolkata
-    citizenship: Indian
-    linkedin: srikanth
-    github: SrikanthVL
-    telegram: @VLSrikanth
-    twitter: @srikanth
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    timezone: America/Cancun Timezone
+    citizenship:
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: Tamil
+      - idiom: English
         level: Native
 
-      - idiom: English
+      - idiom: French
         level: Professional
 
-      - idiom: Hindi
-        level: Reading & Writing
+      - idiom: Spanish
+        level: Professional
 
     interests:
-      - item: Chess,Cricket
+      - item: Climbing
         link:
 
-      - item: Book Reading
+      - item: Snowboarding
         link:
 
-      - item: Travalling
+      - item: Cooking
         link:
 
 career-profile:
@@ -52,9 +61,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - Institution: Freskite
-      Course: Devops Course & Softaware Development
-      time: 2022 - present
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -63,9 +72,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: B.E in Mechanical Engineering
-      university: Anna University
-      time: 2020 - 2022
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -165,20 +174,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Mysql
-        level: 72%
+      - name: Python & Django
+        level: 98%
 
       - name: Javascript & jQuery
-        level: 70%
+        level: 98%
 
-      - name: Linux
-        level: 70%
+      - name: Angular
+        level: 98%
 
       - name: HTML5 & CSS
-        level: 68%
+        level: 95%
 
-      - name: Git & Github
-        level: 65%
+      - name: Ruby on Rails
+        level: 85%
 
       - name: Sketch & Photoshop
         level: 60%
