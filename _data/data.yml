@@ -18,36 +18,35 @@ sidebar:
     phone: 9597758545
     timezone: India/Kolkata
     citizenship:
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    linkedin: srikanth
+    github: SrikanthVL
+    telegram: '@VLSrikanth'
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@srikanth'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Tamil
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Hindi
+        level: Reading & Writing
 
     interests:
-      - item: Climbing
+      - item: Chess & Cricket
         link:
 
-      - item: Snowboarding
+      - item: Reading Books
         link:
 
-      - item: Cooking
+      - item: Travelling
         link:
 
 career-profile:
