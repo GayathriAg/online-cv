@@ -78,7 +78,27 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 experiences:
     - role: General Manager
       time: 2021 - 2022
@@ -105,15 +125,11 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Grocery Store Web application
         link: "#"
         tagline: "A web application to manage all the grocery store activities for ordering and managing products,customer detials."
 
-      - title: Flashfit
+      - title: Flashfit 
         link: "#"
         tagline: "A responsive website template designed to help Flashfit pvt ltd promote their products and services and to attract users &amp; investors"
 
