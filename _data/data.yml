@@ -62,12 +62,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: Msc in Computer Science
-      university: Krishnasamy college for arts and science
-      time: 2011 - 2013
-    - degree: Bsc in Computer Science
-      university: Dheivanai Ammal College for women
-      time: 2008 - 2011
+    - degree: B.E in Mechanical Engineering
+      university: Anna University
+      time: 2016 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,25 +74,27 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: FRONTEND DEVELOPER 
-      time: April 2022 - Present
-      company: Tailwinds,Chennai
+    - role: General Manager
+      time: 2021 - 2022
+      company: VGN Car Care,Pondicherry
       details: |
-          - Designing the webpage using react.js
-          - Getting data through api calls.
-    - role: TRAINER
-      time: Jan 2022 - Present 
-      company: Fresh Kite,Cuddalore
+          - Budgeting and cost control strategies.
+          - Supervision and training
+          - Negotiation Skills.
+          - Supply Chain Management.
+          - Oversee Daily Operations.
+          - Report and engage with corporate officers
+    - role: Graduate Engineering Trainee
+      time: 2020 - 2021 
+      company: Delphi Tvs,Chennai
       details: |
-          - Working as a trainer for C and python problem solving.
-          - Database administration and website design.
-          - Educational institutions and online classroom management.
-          - made the students to do project with html, python , mysql and react js.
-     - role: Faculty 
-      time: 2014 - 2015
-      company: CSC Computer Education Center,Neyveli
-      details: |
-          - Worked as a tainer for C , C++, Java, DBMS.
+          - Responsible for quality assurance and
+          - Quality control for the components
+          - Metallurgical Inspection and quality
+          - Inspection for all components.
+          - Having sound knowledge in testing
+          - Equipment's like various hardness
+          - Tester,and metallurgical microscope.
 projects:
     title: Projects
     intro: >
