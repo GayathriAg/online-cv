@@ -62,9 +62,12 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: B.E in Mechanical Engineering
-      university: Anna University
-      time: 2016 - 2020
+    - degree: Bsc in Computer Science
+      university: Dheivanai Ammal College for women
+      time: 2008-2011
+    - degree: Bsc in Computer Science
+      university: Dheivanai Ammal College for women
+      time: 2008-2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
