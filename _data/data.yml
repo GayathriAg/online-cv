@@ -62,9 +62,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: Bsc in Computer Science
-      university: Dheivanai Ammal College for women
-      time: 2008-2011
+    - degree: Msc in Computer Science
+      university: Krishnasamy college for arts and science
+      time: 2011-2013
     - degree: Bsc in Computer Science
       university: Dheivanai Ammal College for women
       time: 2008-2011
@@ -77,16 +77,12 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: General Manager
-      time: 2021 - 2022
-      company: VGN Car Care,Pondicherry
+    - role: FRONTEND DEVELOPER
+      time: April 2022 - Present
+      company: Tailwinds,Chennai
       details: |
-          - Budgeting and cost control strategies.
-          - Supervision and training
-          - Negotiation Skills.
-          - Supply Chain Management.
-          - Oversee Daily Operations.
-          - Report and engage with corporate officers
+          - Designing the webpage using react.js
+          - Getting data through api calls.
     - role: Graduate Engineering Trainee
       time: 2020 - 2021 
       company: Delphi Tvs,Chennai
