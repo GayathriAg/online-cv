@@ -89,19 +89,19 @@ skills:
 
     toolset:
       - name: Python & Mysql
-        level: 92%
+        level: 70%
 
       - name: Javascript & jQuery
-        level: 88%
+        level: 60%
 
       - name: Linux
-        level: 78%
+        level: 70%
 
       - name: HTML5 & CSS
-        level: 78%
+        level: 65%
 
       - name: Git & github
-        level: 75%
+        level: 72%
 
       - name: Sketch & Photoshop
         level: 60%
