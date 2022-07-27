@@ -80,10 +80,10 @@ projects:
     assignments:
       - title: Grocery Store Web application
         link: "#"
-        tagline: "we will build a grocery store management system where will do 3 tier application development."
-                 "FrontEnd: UI will be in HTML, CSS, Javascript"
-                 "BackEnd: backend will be a python flask server"
-                 "Database: Mysql by doing this project we will learn how complete software systems are build in big corporates."
+        tagline: "we will build a grocery store management system where will do 3 tier application development.
+                 FrontEnd UI will be in HTML, CSS, Javascript
+                 BackEnd backend will be a python flask server
+                 Database Mysql by doing this project we will learn how complete software systems are build in big corporates."
 skills:
     title: Skills &amp; Proficiency
 
