@@ -8,21 +8,21 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Esaimozhi
-    tagline: Web Developer
+    name: Gayathri A
+    tagline: Trained Devops candidate
     avatar: srikanth.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: esaimozhi3@gmail.com
-    phone: 6381263282
+    email: gayumanju035@gmail.com
+    phone: 9344583521
     timezone: India/Kolkata
-    citizenship:
-    linkedin: sri-kanth-aa11bb237
-    github: Esaimozhi3
-    telegram: '@VLSrikanth'
+    citizenship: 
+    linkedin: 
+    github: GayathriAg
+    telegram: '@Gayu'
     gitlab:
     bitbucket:
-    twitter: '@srikant83173871'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -35,10 +35,10 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Cooking
+      - item: Music 
         link:
 
-      - item: Reading Books
+      - item: Gardening
         link:
 
       - item: Travelling
@@ -47,9 +47,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a qualified and professional web developer with five years of
-      experience in database administration and website design. Strong
-      creative and analytical skills. Team player with an eye for detail.
+    To make use of my interpersonal skills to achieve goals of a company 
+      that focuses on the company growth and myself.      
 education:
     - degree: Devops Course
       university: Freshkite & Cloudyuga
