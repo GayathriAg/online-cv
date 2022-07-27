@@ -91,11 +91,15 @@ projects:
                  FrontEnd UI will be in HTML, CSS, Javascript
                  BackEnd backend will be a python flask server
                  Database Mysql by doing this project we will learn how complete software systems are build in big corporates."
+                 
+                 
+      - title: CRUD Operation(Create Read Use and Delete)
+        tagline: "Created a Database to list out the Employees/Students Details Using Apache Server and Mysql Database"
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Mysql
+      - name: Python & PHP
         level: 70%
 
       - name: Javascript & jQuery
@@ -104,7 +108,7 @@ skills:
       - name: Linux
         level: 70%
 
-      - name: HTML5 & CSS
+      - name: HTML5 & Mysql
         level: 65%
 
       - name: Git & github
