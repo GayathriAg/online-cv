@@ -19,7 +19,7 @@ sidebar:
     citizenship:
     linkedin: Gayathri A
     github: GayathriAg
-    telegram: 
+    telegram: '@Gayu'
     gitlab:
     bitbucket:
     twitter: 
@@ -35,10 +35,10 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Cooking
+      - item: Gardening
         link:
 
-      - item: Reading Books
+      - item: Music
         link:
 
       - item: Travelling
@@ -47,9 +47,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a qualified and professional web developer with five years of
-      experience in database administration and website design. Strong
-      creative and analytical skills. Team player with an eye for detail.
+      To make use of my interpersonal skills to achieve goals of a company 
+      that focuses on the company growth and myself.
 education:
     - degree: Devops Course
       university: Freshkite & Cloudyuga
