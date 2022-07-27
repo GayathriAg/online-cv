@@ -61,12 +61,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: Msc in Computer Science
-      university: Krishnasamy college for arts and science
-      time: 2011-2013
     - degree: Bsc in Computer Science
-      university: Dheivanai Ammal College for women
-      time: 2008-2011
+      university: Thiruvalluvar University
+      time: 2019-2022
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,25 +73,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: FRONTEND DEVELOPER
-      time: April 2022 - Present
-      company: Tailwinds,Chennai
-      details: |
-          - Designing the webpage using react.js
-          - Getting data through api calls.
-    - role: TRAINER
-      time:  Jan 2022 - Present
-      company: Freshkite,Cuddalore
-      details: |
-          - Working as a Trainer for C and Python Problem solving.
-          - Database administration and website design.
-          - Educational institutions and online classroom management.
-          - Made the students to do project with html, python , mysql and react js.
-    - role: Faculty
-      time: 2014 - 2015 
-      company: CSC Computer Education Center
-      details: |
-          - Worked as a Trainer for C , C++, Java, DBMS.
+    - role: Fresher
 projects:
     title: Projects
     intro: >
