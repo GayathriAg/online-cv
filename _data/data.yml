@@ -93,11 +93,11 @@ projects:
         tagline: "we will build a grocery store management system where will do 3 tier application development.
                  FrontEnd UI will be in HTML, CSS, Javascript
                  BackEnd backend will be a python flask server
-                 Database Mysql by doing this project we will learn how complete software systems are build in big corporates."
+                 database Mysql by doing this project we will learn how complete software systems are build in big corporates."
                  
                  
       - title: CRUD Operation(Create Read Use and Delete)
-        tagline: "Created a Database to list out the Employees/Students Details Using Apache Server and Mysql Database"
+        tagline: "Created a database to list out the employees/students details using apache server and Mysql database"
 skills:
     title: Skills &amp; Proficiency
 
